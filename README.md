@@ -26,3 +26,5 @@ pull after changing in repository
 ## 16 conda env list
 ## Web scraping Towardsdatascience
 https://towardsdatascience.com/scraping-covid19-data-using-python-80120eb5eb66
+## 17 git checkout -b ＜new-branch＞ ＜existing-branch＞
+To create new branch
