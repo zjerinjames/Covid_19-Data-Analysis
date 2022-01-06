@@ -16,3 +16,13 @@ to add the file to staged
 ## 9 git remote add origin 'link from the new repository'
 ## 10 git remote -v
 ## 11 git push -u origin master
+-u so next time no need to type origi...
+## 12 git pull
+pull after changing in repository
+13 install miniconda
+## 14 conda update conda
+## 15 conda create --name minimal_ds
+## 17 conda activate minimal_ds
+## 16 conda env list
+## Web scraping Towardsdatascience
+https://towardsdatascience.com/scraping-covid19-data-using-python-80120eb5eb66
